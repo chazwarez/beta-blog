@@ -1,1 +1,6 @@
 This is the repository for the alpha-blog app using ruby on rails development
+
+Validations for user class:
+- username must be present and unique
+- email must be present and unique
+- validate email format using regex
